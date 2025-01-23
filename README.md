@@ -67,3 +67,5 @@ Connect with other aspiring developers and share your progress:
 This README provides a starting point for your NeetCode 150 journey. The effectiveness of these resources will depend on your dedication and consistent effort.
 
 **Happy Coding!**
+
+**Created by Anand J**
