@@ -32,7 +32,7 @@ By diligently working through these problems, you'll gain a deeper understanding
 
 - **Striver Website:**
 
-  - [Striver SDE Sheet](https://www.algoexpert.io/courses/strivers-sde-sheet) - Access a complementary resource with a similar focus on essential DSA problems.
+  - [Striver SDE Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) - Access a complementary resource with a similar focus on essential DSA problems.
 
 - **NeetCode 150 Solutions:**
   - **All Problems:**
