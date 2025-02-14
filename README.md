@@ -1,4 +1,4 @@
-# NeetCode 150 Practice Solutions
+# Leetcode Practice Solutions
 
 This README provides a comprehensive guide to tackling the NeetCode 150, a meticulously curated collection of 150 LeetCode problems designed to solidify your Data Structures and Algorithms (DSA) foundation.
 
